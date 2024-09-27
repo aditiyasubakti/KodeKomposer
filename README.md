@@ -12,4 +12,5 @@ klik KodeKompose.exe
 clang++ KodeKomposer.cpp -o KodeKomposer
 <br>
 bash KodeKomposer atau ./KodeKomposer
-
+<br>
+![image](https://github.com/user-attachments/assets/a5aedcd9-f351-449b-b6a5-2a76a59f387b)
