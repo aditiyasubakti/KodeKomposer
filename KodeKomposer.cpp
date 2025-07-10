@@ -68,7 +68,7 @@ int main() {
     cout << "|\tAkan secara otomatis dibuatkan\t\t\t\t|\n";
     cout << "|\tfile disimpan dengan nama permutasi.txt\t\t\t|\n";
     cout << "|\t\t\t\t\t\t\t\t|\n";
-    cout << "|\tIG:aditiya.subakti\t|in:aditiya subakti\t\t|\n";
+    cout << "|\tIG:aditiya.sbk\t|in:aditiya subakti\t\t|\n";
     cout << garis;
     
     cout << "Masukkan string: ";
